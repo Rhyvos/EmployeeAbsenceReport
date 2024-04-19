@@ -20,7 +20,7 @@ This project utilizes the following tools:
 To install and compile the project, follow these steps:
 1. Clone the repository:
 ```console
-git clone [REPOSITORY_URL]
+git clone https://github.com/Rhyvos/EmployeeAbsenceReport.git
 cd EmployeeAbsenceReport
 ```
 2. Configure the project using CMake:
